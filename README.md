@@ -28,20 +28,20 @@ I´m a Web Developer in making and Developer videogame wannabe 💻 ⭐
 </p >
 
 # Popular Repositories
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Arcos-Mir&repo=github-readme-stats&cache_seconds=86400&theme=ambient_gradient" width="400"/>
-</p >
-
+<a href="https://github.com/Arcos-Mir/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Arcos-Mir&repo=github-readme-stats&cache_seconds=86400&theme=ambient_gradient"
+</a>
+  
 # GitHub Stats
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Arcos-Mir&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=neon" width="450">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Arcos-Mir&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=ambient_gradient" width="450">
 <br>
 <br>
 <img  src="https://github-readme-streak-stats.herokuapp.com?user=Arcos-Mir&theme=DARK&hide_border=true" width="450">
 <br>
 <br>
-<img src="https://raw.githubusercontent.com/Arcos-Mir/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="450">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arcos-Mir&layout=compact&theme=neon&hide_border=true">
 </p >
 <br>
 
