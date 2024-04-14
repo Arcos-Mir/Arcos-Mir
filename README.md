@@ -33,15 +33,15 @@ I´m a Web Developer in making and Developer videogame wannabe 💻 ⭐
 </a>
   
 # GitHub Stats
-
+<br>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Arcos-Mir&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=ambient_gradient" width="450">
 <br>
 <br>
-<img  src="https://github-readme-streak-stats.herokuapp.com?user=Arcos-Mir&theme=DARK&hide_border=true" width="450">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Arcos-Mir&theme=github-green-purple&hide_border=true&card_width=450" alt="GitHub Streak" /></a>
 <br>
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arcos-Mir&layout=compact&theme=neon&hide_border=true">
+<br> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arcos-Mir&layout=compact&theme=neon&hide_border=true&card_width=450">
 </p >
 <br>
 
