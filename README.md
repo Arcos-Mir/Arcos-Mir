@@ -25,9 +25,9 @@
 </p >
 
 # Popular Repositories
-<a href="https://github.com/Arcos-Mir/github-readme-stats">
+<!--<a href="https://github.com/Arcos-Mir/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arcos-Mir&repo=github-readme-stats&cache_seconds=86400&theme=ambient_gradient"
-</a>
+</a>-->
   
 # GitHub Stats
 <br>
